@@ -31,6 +31,7 @@ I am open to **Data Analyst, Business Analyst and Junior Analytics** opportuniti
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
+| [E-commerce Business Analytics](https://github.com/Nchodiaz/ecommerce-business-analytics) | DuckDB star schema, SQL marts, RFM segmentation, cohort retention, Streamlit and an executive Excel report | **541,909** source rows reconciled with zero orphan keys |
 | [Jev Quant Lab](https://github.com/Nchodiaz/jev-quant-lab) | Point-in-time data modeling, Bronze/Silver/Gold layers, DuckDB/Polars pipelines, temporal validation and experiment auditing | **74 automated tests passing** |
 | [Retail Demand Forecasting](https://github.com/Nchodiaz/retail-demand-forecasting) | Data cleaning, lag features, temporal holdout, baseline comparison and model interpretation | Random Forest improved RMSE by **14.6%** vs. linear regression |
 | [Small-Cap Gap Statistics](https://github.com/Nchodiaz/SmallCap_GAP_Stats) | Interactive analytical dashboard, gap filtering, descriptive statistics and transparent demo-data behavior | TypeScript production build verified |
