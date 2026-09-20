@@ -31,6 +31,7 @@ I am open to **Data Analyst, Business Analyst and Junior Analytics** opportuniti
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
+| [SaaS Revenue Operations — Power BI](https://github.com/Nchodiaz/saas-revenue-operations-powerbi) | Star schema, Power Query, DAX, MRR bridge, retention, profitability and acquisition efficiency | **30+ DAX measures** with fully reconciled recurring-revenue movements |
 | [E-commerce Business Analytics](https://github.com/Nchodiaz/ecommerce-business-analytics) | DuckDB star schema, SQL marts, RFM segmentation, cohort retention, Streamlit and an executive Excel report | **541,909** source rows reconciled with zero orphan keys |
 | [Jev Quant Lab](https://github.com/Nchodiaz/jev-quant-lab) | Point-in-time data modeling, Bronze/Silver/Gold layers, DuckDB/Polars pipelines, temporal validation and experiment auditing | **74 automated tests passing** |
 | [Retail Demand Forecasting](https://github.com/Nchodiaz/retail-demand-forecasting) | Data cleaning, lag features, temporal holdout, baseline comparison and model interpretation | Random Forest improved RMSE by **14.6%** vs. linear regression |
