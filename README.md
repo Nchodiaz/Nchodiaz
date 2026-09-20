@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- GitHub profile README -->
+
 # Ignacio Díaz
 
 ### Data Analyst | Python · SQL · Excel · Data Visualization
